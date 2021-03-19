@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="812b255d-7b43-4de3-a571-932b43e3736f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AFNetworking/4.0.1/AFNetworking.binary.podspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AFNetworking/4.0.1/AFNetworking.binary.podspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FMDB/2.7.5/FMDB.binary.podspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FMDB/2.7.5/FMDB.binary.podspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LKDBHelper/2.5.3/LKDBHelper.binary.podspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LKDBHelper/2.5.3/LKDBHelper.binary.podspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDWebImage/5.8.0/SDWebImage.binary.podspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SDWebImage/5.8.0/SDWebImage.binary.podspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YYModel/1.0.4/YYModel.binary.podspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/YYModel/1.0.4/YYModel.binary.podspec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pvUqlTjr1RkOqAG59FrrySgGPQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="812b255d-7b43-4de3-a571-932b43e3736f" name="Default Changelist" comment="" />
+      <created>1616063253400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616063253400</updated>
+      <workItem from="1616063263932" duration="2190000" />
+    </task>
+    <task id="LOCAL-00001" summary="modify address">
+      <created>1616064845468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616064845468</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modify address" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify address" />
+  </component>
+</project>
